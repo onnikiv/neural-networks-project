@@ -1,5 +1,4 @@
 import os,shutil, pathlib
-from PIL import Image
 
 org_dir = pathlib.Path("2-Kuvantunnistus/original-images")
 new_dir = pathlib.Path("2-Kuvantunnistus/images")
